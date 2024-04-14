@@ -401,17 +401,17 @@ const Privacy = () => {
                     Impressions Reporting. To opt out of being tracked by Google
                     Analytics across the Services, visit{" "}
                     <a href="https://tools.google.com/dlpage/gaoptout">
-                      https://tools.google.com/dlpage/gaoptout
+                      Google OPT-OUT
                     </a>
                     . You can opt out of Google Analytics Advertising Features
                     through Ads Settings and Ad Settings for mobile apps. Other
                     opt out means include{" "}
                     <a href="http://optout.networkadvertising.org/">
-                      http://optout.networkadvertising.org/
-                    </a>
+                      OPT-OUT advertisements
+                    </a>{" "}
                     and{" "}
                     <a href="http://www.networkadvertising.org/mobile-choice">
-                      http://www.networkadvertising.org/mobile-choice
+                      Network advertisements
                     </a>
                     . For more information on the privacy practices of Google,
                     please visit the{" "}

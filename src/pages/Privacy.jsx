@@ -631,10 +631,10 @@ const Privacy = () => {
                 You have the right to request access to the personal information
                 we collect from you, change that information, or delete it. To
                 request to review, update, or delete your personal information,
-                please visit:{" "}
-                <a href="https://srgames.vercel.app">
-                https://srgames.vercel.app
-                </a>
+                please send us a mail at:{" "}
+                <a href="mailto:srgamestudio@zohomail.in">
+                srgamestudio@zohomail.in
+                </a>{" "}
                 .
               </p>
             </div>

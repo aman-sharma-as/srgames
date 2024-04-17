@@ -32,8 +32,8 @@ const Privacy = () => {
               do not agree with our policies and practices, please do not use
               our Services. If you still have any questions or concerns, please
               contact us at{" "}
-              <a href="mailto:support@srgamestudio.com">
-                support@srgamestudio.com
+              <a href="mailto:srgamestudio@zohomail.in">
+              srgamestudio@zohomail.in
               </a>
               .
             </p>
@@ -98,7 +98,7 @@ const Privacy = () => {
             </p>
             <p className="summary-para9">
               <span>How do you exercise your rights?</span> The easiest way to
-              exercise your rights is by visiting http://www.srgamestudio.com,
+              exercise your rights is by visiting https://srgames.vercel.app,
               or by contacting us. We will consider and act upon any request in
               accordance with applicable data protection laws.
             </p>
@@ -562,8 +562,8 @@ const Privacy = () => {
               <p className="para4">
                 If you have questions or comments about your privacy rights, you
                 may email us at{" "}
-                <a href="mailto:support@srgamestudio.com">
-                  support@srgamestudio.com
+                <a href="mailto:srgamestudio@zohomail.in">
+                srgamestudio@zohomail.in
                 </a>
                 .
               </p>
@@ -610,15 +610,15 @@ const Privacy = () => {
               <p className="para2">
                 If you have questions or comments about this notice, you may
                 email us at{" "}
-                <a href="mailto:support@srgamestudio.com">
-                  support@srgamestudio.com
+                <a href="mailto:srgamestudio@zohomail.in">
+                srgamestudio@zohomail.in
                 </a>{" "}
                 or contact us by post at:
               </p>
               <p className="para3">Shi Systems Inc.</p>
-              <p className="para4">XXX-XXX-ADDRESS</p>
+              <p className="para4">A4, Gokul Vihar</p>
               <p className="para5">
-                XXX-XXX-CITY, XXX-XXX-STATE XXX-XXX-ZIPCODE
+                Gwalior, Madhya Pradesh 474001
               </p>
               <p className="para6">India</p>
             </div>
@@ -632,8 +632,8 @@ const Privacy = () => {
                 we collect from you, change that information, or delete it. To
                 request to review, update, or delete your personal information,
                 please visit:{" "}
-                <a href="http://www.srgamestudio.com">
-                  http://www.srgamestudio.com
+                <a href="https://srgames.vercel.app">
+                https://srgames.vercel.app
                 </a>
                 .
               </p>

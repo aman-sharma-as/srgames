@@ -9,12 +9,9 @@ const Footer = () => {
     <>
       <div className="footer-container">
         <div className="company-text-area">
-          <h1 className="company-heading">King.com</h1>
+          <h1 className="company-heading">S.R. Game Studio</h1>
           <p className="company-paragraph">
-            King is a leading interactive entertainment company for the mobile
-            world, with people all around the world playing one or more of our
-            games. We have developed more than 200 fun titles, offering games
-            that are enjoyed all around the world.
+            S.R. Game Studio is an Independent Gaming Startup company based in India.
           </p>
           <NavLink to="/privacy-policy">Privacy Policy</NavLink>
         </div>
@@ -27,15 +24,15 @@ const Footer = () => {
           </NavLink>
         </div>
         <div className="social-links">
-          <NavLink to="https://facebook.com">
+          <NavLink to="https://www.facebook.com/shriramayangamestudio">
             <FaFacebook />
             Facebook
           </NavLink>
-          <NavLink to="https://facebook.com">
+          <NavLink to="https://www.instagram.com/shriramayanagamestudio/">
             <FaInstagram />
             Instagram
           </NavLink>
-          <NavLink to="https://facebook.com">
+          <NavLink to="https://twitter.com/SR_GameStudio">
             <FaXTwitter />
             Twitter
           </NavLink>

@@ -613,14 +613,14 @@ const Privacy = () => {
                 <a href="mailto:srgamestudio@zohomail.in">
                 srgamestudio@zohomail.in
                 </a>{" "}
-                or contact us by post at:
+                {/* or contact us by post at:
               </p>
               <p className="para3">Shi Systems Inc.</p>
               <p className="para4">A4, Gokul Vihar</p>
               <p className="para5">
                 Gwalior, Madhya Pradesh 474001
               </p>
-              <p className="para6">India</p>
+                <p className="para6">India</p> */}
             </div>
             <div id="toc12" className="description-section">
               <h3 className="heading">

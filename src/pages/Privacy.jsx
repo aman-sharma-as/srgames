@@ -33,7 +33,7 @@ const Privacy = () => {
               our Services. If you still have any questions or concerns, please
               contact us at{" "}
               <a href="mailto:srgamestudio@zohomail.in">
-              srgamestudio@zohomail.in
+                srgamestudio@zohomail.in
               </a>
               .
             </p>
@@ -98,8 +98,8 @@ const Privacy = () => {
             </p>
             <p className="summary-para9">
               <span>How do you exercise your rights?</span> The easiest way to
-              exercise your rights is by visiting https://srgames.vercel.app,
-              or by contacting us. We will consider and act upon any request in
+              exercise your rights is by visiting https://srgames.vercel.app, or
+              by contacting us. We will consider and act upon any request in
               accordance with applicable data protection laws.
             </p>
             <p className="summary-para10">
@@ -563,7 +563,7 @@ const Privacy = () => {
                 If you have questions or comments about your privacy rights, you
                 may email us at{" "}
                 <a href="mailto:srgamestudio@zohomail.in">
-                srgamestudio@zohomail.in
+                  srgamestudio@zohomail.in
                 </a>
                 .
               </p>
@@ -611,9 +611,10 @@ const Privacy = () => {
                 If you have questions or comments about this notice, you may
                 email us at{" "}
                 <a href="mailto:srgamestudio@zohomail.in">
-                srgamestudio@zohomail.in
+                  srgamestudio@zohomail.in
                 </a>{" "}
-                {/* or contact us by post at:
+              </p>
+              {/* or contact us by post at:
               </p>
               <p className="para3">Shi Systems Inc.</p>
               <p className="para4">A4, Gokul Vihar</p>
@@ -633,7 +634,7 @@ const Privacy = () => {
                 request to review, update, or delete your personal information,
                 please send us a mail at:{" "}
                 <a href="mailto:srgamestudio@zohomail.in">
-                srgamestudio@zohomail.in
+                  srgamestudio@zohomail.in
                 </a>{" "}
                 .
               </p>
